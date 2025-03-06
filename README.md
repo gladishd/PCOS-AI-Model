@@ -1,4 +1,4 @@
-cat > README.md << EOL
+
 # PCOS-Driven Gut Microbiome AI Model for Prediabetes Prediction
 
 
