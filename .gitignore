@@ -1,0 +1,27 @@
+cat > .gitignore << EOL
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Project specific
+images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.html
+midterm_report.md
+timeline.html
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Virtual Environment
+venv/
+ENV/
+env/
+EOL
