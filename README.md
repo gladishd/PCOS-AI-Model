@@ -1,12 +1,12 @@
 cat > README.md << EOL
 # PCOS-Driven Gut Microbiome AI Model for Prediabetes Prediction
 
-**Assignment[1] : Project Proposal**  
+
 **Aastika Banstola**  
 Department of Computer and Mathematics, Fisk University  
 CSCI 310: Junior Seminar  
 Dr. Qi Li  
-Feb 6, 2025
+
 
 ## Research Information
 **Research Paper Title:** A Generative AI-Powered Approach to Personalized Gut Health  
